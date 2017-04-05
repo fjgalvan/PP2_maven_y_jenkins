@@ -1,4 +1,4 @@
-package test;
+package test_de_clases;
 
 import entorno.Entorno;
 import entorno.InterfaceJuego;
